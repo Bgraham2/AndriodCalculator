@@ -1,5 +1,5 @@
 # AndroidCalculator
-android calc
+android calcculator
 
 
 Written as Final project for web/mobile development class
